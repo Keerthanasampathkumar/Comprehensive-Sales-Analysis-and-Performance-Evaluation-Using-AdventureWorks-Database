@@ -70,6 +70,19 @@ AdventureWorksDW2019.bak
 To update date columns, I used the script provided by TechTalkCorner:
 Update AdventureWorksDW Data
 
+## Output
+![sss-1](https://github.com/user-attachments/assets/2e585824-4ff1-4a3c-a461-12dddfa981d2)
+
+### Page 1 - AdventureWorks Sales Overview
+![ss-1](https://github.com/user-attachments/assets/2079c926-4b4e-4379-b1c4-ca16fe6c21a1)
+
+### Page 2 - Sales by Customer
+![ss-2](https://github.com/user-attachments/assets/75413a30-401c-4030-bde1-cf6b6637d033)
+
+### Page 3 - Sales by Product
+![ss-3](https://github.com/user-attachments/assets/ce93a077-d021-4841-ba65-a84d3f47cd8d)
+
+
 ## Future Enhancements
 
 Automate the data extraction, cleaning, and visualization process using Python.
