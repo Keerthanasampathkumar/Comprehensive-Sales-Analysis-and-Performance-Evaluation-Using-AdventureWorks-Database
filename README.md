@@ -1,0 +1,2 @@
+# Comprehensive-Sales-Analysis-and-Performance-Evaluation-Using-AdventureWorks-Database
+This project analyzes AdventureWorks sales data to identify trends, customer behavior, and product performance. Using SQL and data visualization, it uncovers key insights like top-selling products and regional sales. The findings help improve decision-making, optimize sales strategies, and enhance business performance through data-driven insights.
